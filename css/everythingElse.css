@@ -1,0 +1,25 @@
+#t{
+	text-align: center;
+}
+
+#btn-gob{
+	position: fixed;
+	left: 10px;
+}
+
+#btn-pres{
+	position: fixed;
+	right: 10px;
+}
+
+/*
+#last{
+	background-color : blue;
+}
+
+#quote{
+	text-align: center;
+	color: white;
+}*/
+
+
