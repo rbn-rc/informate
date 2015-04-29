@@ -15,6 +15,7 @@
 	<link rel="stylesheet" href="css/table.css" />
 	<!-- estilos para lo demás -->
 	<link rel="stylesheet" href="css/everythingElse.css" />
+	 <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 	<div class="container-fluid">
@@ -24,16 +25,18 @@
 				<div class="page-header"></div>
 			</div>
 		</div>
+			<div class="col-sm-12 text-center"><a href="#gobernador" class="btn btn-lg"><span class="glyphicon glyphicon-menu-down"></span><i class="fa fa-angle-double-down fa-4x"></i></a> </div>
+			<i class="fa fa-camera-retro"></i>
+		</div>
 <!-- 		<div class="btn-group">
 			<button type="button" class="btn btn-primary">Presidente Municipal</button>
 			<button type="button" class="btn btn-primary">Gobernador</button>
 		</div> -->
-
-		<div class=""><button id="btn-pres" type="button" class="btn btn-default" onclick="alert(esto te llevará a la información y encuesta de los presidentes municipales">Presidentes municipales</button>
-				</div>
+		
 		<div class="row">
 			<div class="col-sm-2">
-				
+				<div class=""><button id="btn-pres" type="button" class="btn btn-primary btn-lg" onclick='alert("esto te llevará a la información y encuesta de los presidentes municipales");'>Presidentes municipales</button>
+				</div>
 			</div>
 			<div class="col-sm-8" id="graficas">
 				<table id="source">
@@ -68,7 +71,7 @@
 				<div id="target"> </div>
 				<br/>
 				<br/>
-				<table id="source2" visibility="hidden">
+				<table id="source2">
 					<caption>
 						Gobernador
 					</caption>
@@ -97,9 +100,11 @@
 						</tr>
 					</tbody>
 				</table>
+				<section id="gobernador">
 				<div id="target2"> </div>
+				</section>
 			</div>
-			<div class="col-sm-2"><div class=""><button id="btn-gob" type="button" class="btn btn-default btn-block4 ">Gobernadores</button></div>
+			<div class="col-sm-2"><div class=""><button id="btn-gob" type="button" class="btn btn-primary btn-lg  " onclick='alert("esto te llevará a la información y encuesta de los gobernadores");'>Gobernadores</button></div>
 		</div>
 	</div>
 
