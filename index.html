@@ -25,20 +25,10 @@
 				<div class="page-header"></div>
 			</div>
 		</div>
-			<div class="col-sm-12 text-center"><a href="#gobernador" class="btn btn-lg"><span class="glyphicon glyphicon-menu-down"></span><i class="fa fa-angle-double-down fa-4x"></i></a> </div>
-			<i class="fa fa-camera-retro"></i>
-		</div>
-<!-- 		<div class="btn-group">
-			<button type="button" class="btn btn-primary">Presidente Municipal</button>
-			<button type="button" class="btn btn-primary">Gobernador</button>
-		</div> -->
-		
-		<div class="row">
-			<div class="col-sm-2">
-				<div class=""><button id="btn-pres" type="button" class="btn btn-primary btn-lg" onclick='alert("esto te llevará a la información y encuesta de los presidentes municipales");'>Presidentes municipales</button>
-				</div>
-			</div>
-			<div class="col-sm-8" id="graficas">
+		<!-- <div class="row">
+			<div class="col-sm-12 text-center"><a href="#gobernador" class="btn btn-lg"><span class="glyphicon glyphicon-menu-down"></span></a> 
+		</div>	 -->
+		<div id="graficas">
 				<table id="source">
 					<caption>
 						Presidente Municipal
@@ -68,9 +58,6 @@
 						</tr>
 					</tbody>
 				</table>
-				<div id="target"> </div>
-				<br/>
-				<br/>
 				<table id="source2">
 					<caption>
 						Gobernador
@@ -100,19 +87,13 @@
 						</tr>
 					</tbody>
 				</table>
-				<section id="gobernador">
-				<div id="target2"> </div>
-				</section>
 			</div>
-			<div class="col-sm-2"><div class=""><button id="btn-gob" type="button" class="btn btn-primary btn-lg  " onclick='alert("esto te llevará a la información y encuesta de los gobernadores");'>Gobernadores</button></div>
+			
+		<div class="row">
+			<div class="col-sm-6"> <div id="target"></div> </div>
+			<div class="col-sm-6"> <div id="target2"></div> </div>
 		</div>
 	</div>
-
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
 
 	<div class="navbar navbar-default navbar-fixed-bottom">
 		<div class="container">
@@ -123,17 +104,6 @@
 			</footer>
 		</div>
 	</div>
-
-<!-- 	<div class="row">
-		<div class="col-sm-12">
-			<footer id="last" class="well">
-				<blockquote id="quote" class="bg-primary">
-					La democracia es el proceso que garantiza que no seamos gobernados mejor de lo que nos merecemos.
-					<footer><kbd>George Bernard Shaw</kbd></footer>
-				</blockquote>
-			</footer>
-		</div>
-	</div> -->
 
 	<script type="text/javascript">
 	$(function() {
