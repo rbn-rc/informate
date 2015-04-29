@@ -24,18 +24,8 @@
 				<div class="page-header"></div>
 			</div>
 		</div>
-<!-- 		<div class="btn-group">
-			<button type="button" class="btn btn-primary">Presidente Municipal</button>
-			<button type="button" class="btn btn-primary">Gobernador</button>
-		</div> -->
 
-		<div class=""><button id="btn-pres" type="button" class="btn btn-default" onclick="alert(esto te llevará a la información y encuesta de los presidentes municipales">Presidentes municipales</button>
-				</div>
-		<div class="row">
-			<div class="col-sm-2">
-				
-			</div>
-			<div class="col-sm-8" id="graficas">
+		<div id="graficas">
 				<table id="source">
 					<caption>
 						Presidente Municipal
@@ -65,49 +55,40 @@
 						</tr>
 					</tbody>
 				</table>
-				<div id="target"> </div>
-				<br/>
-				<br/>
-				<table id="source2" visibility="hidden">
-					<caption>
-						Gobernador
-					</caption>
-					<thead>
-						<tr>
-							<th></th>
-							<th>Votos registrados para gobernador</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-							<th>Candidato 1</th>
-							<td>1595</td>
-						</tr>
-						<tr>
-							<th>Candidato 2</th>
-							<td>1470</td>
-						</tr>
-						<tr>
-							<th>Candidato 3</th>
-							<td>2750</td>
-						</tr>
-						<tr>
-							<th>Candidato 4</th>
-							<td>170</td>
-						</tr>
-					</tbody>
-				</table>
-				<div id="target2"> </div>
-			</div>
-			<div class="col-sm-2"><div class=""><button id="btn-gob" type="button" class="btn btn-default btn-block4 ">Gobernadores</button></div>
+			<table id="source2">
+				<caption>Gobernador</caption>
+				<thead>
+					<tr>
+						<th></th>
+						<th>Votos registrados para gobernador</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<th>Candidato 1</th>
+						<td>1595</td>
+					</tr>
+					<tr>
+						<th>Candidato 2</th>
+						<td>1470</td>
+					</tr>
+					<tr>
+						<th>Candidato 3</th>
+						<td>2750</td>
+					</tr>
+					<tr>
+						<th>Candidato 4</th>
+						<td>170</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+			
+		<div class="row">
+			<div class="col-sm-6"> <div id="target"></div> </div>
+			<div class="col-sm-6"> <div id="target2"></div> </div>
 		</div>
 	</div>
-
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
 
 	<div class="navbar navbar-default navbar-fixed-bottom">
 		<div class="container">
@@ -119,11 +100,10 @@
 		</div>
 	</div>
 
-
 	<script type="text/javascript">
 	$(function() {
 		$('#source').tableBarChart('#target', '', false);
-		$('#source2').tableBarChart('#target2', '', true);
+		$('#source2').tableBarChart('#target2', '', false);
 		$("table").hide();
 		$("tbody").hide();
 	});
