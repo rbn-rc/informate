@@ -1,0 +1,3 @@
+README
+
+A la hora de usar esta app, acceder via 127.0.0.1 en vez de 'localhost', ya que si no se hace asi, no se guardan las variables de sesion y no funciona!
