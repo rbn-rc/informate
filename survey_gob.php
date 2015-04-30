@@ -1,11 +1,16 @@
-<!DOCTYPE html>
+<?php 
+	require_once 'twitter/init.php';
+
+	$auth = new TwitterAuth($client);
+
+?>
 <html>
 		<head>
 			<title>¡Infórmate!</title>
 			<meta charset="utf-8">
 			<meta name="viewport" content="width=device-width, initial-scale=1">
 			<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-			<link rel="stylesheet" type="text/css" href="styles.css">
+			<link rel="stylesheet" type="text/css" href="css/styles.css">
 			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 			<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 		</head>
@@ -23,7 +28,7 @@
 			    		<ul class ="nav navbar-nav">
 			        		<li><a href="#">Estadísticas</a></li>
 			        		<li><a href="survey_gob.php">Candidatos a Gobernador</a></li>
-			        		<li><a href="survey_mun.php">Candidatos a Presidente Municipal</a></li>
+			        		<li><a href="survey_mun.php">Candidatos a Presidente Municipal</a></li>	
 			      		</ul>
 			    	</div>
 			  	</div>
@@ -42,7 +47,7 @@
 				<ul class="nav nav-tabs">
 				 	<li class="active">
 				 		<a data-toggle="tab" href="#can1">
-				 			<img class="img-responsive img-rounded" src="rl.jpg" alt="rl" width="155.75" height="218.75">
+				 			<img class="img-responsive img-rounded" src="img/rl.jpg" alt="rl" width="155.75" height="218.75">
 				 			<div class="panel">
 				 				<p class="text-center">
 				 					Roberto Loyola
@@ -52,7 +57,7 @@
 				 	</li>
 				  	<li>
 				  		<a data-toggle="tab" href="#can2">
-				  			<img class="img-responsive img-rounded" src="pd.jpg" alt="pd" width="155.75" height="218.75">
+				  			<img class="img-responsive img-rounded" src="img/pd.jpg" alt="pd" width="155.75" height="218.75">
 				  			<div class="panel">
 				 				<p class="text-center">
 				  					Francisco Domínguez
@@ -62,7 +67,7 @@
 				  	</li>
 				  	<li>
 				  		<a data-toggle="tab" href="#can3">
-				  			<img class="img-responsive img-rounded" src="ac.jpg" alt="ac" width="155.75" height="218.75">
+				  			<img class="img-responsive img-rounded" src="img/ac.jpg" alt="ac" width="155.75" height="218.75">
 				  			<div class="panel">
 				 				<p class="text-center">
 				  					Adolfo Camacho
@@ -72,7 +77,7 @@
 				  	</li>
 				  	<li>
 				  		<a data-toggle="tab" href="#can4">
-				  			<img class="img-responsive img-rounded" src="cm.jpg" alt="cm" width="155.75" height="218.75">
+				  			<img class="img-responsive img-rounded" src="img/cm.jpg" alt="cm" width="155.75" height="218.75">
 				  			<div class="panel">
 				 				<p class="text-center">
 				  					Celia Maya
@@ -82,7 +87,7 @@
 				  	</li>
 				  	<li>
 				  		<a data-toggle="tab" href="#can5">
-				  			<img class="img-responsive img-rounded" src="sa.jpg" alt="sa" width="155.75" height="218.75">
+				  			<img class="img-responsive img-rounded" src="img/sa.jpg" alt="sa" width="155.75" height="218.75">
 				  			<div class="panel">
 				 				<p class="text-center">
 				  					Salvador López
@@ -92,7 +97,7 @@
 				  	</li>
 				  	<li>
 				  		<a data-toggle="tab" href="#can6">
-				  			<img class="img-responsive img-rounded" src="em.jpg" alt="em" width="155.75" height="218.75">
+				  			<img class="img-responsive img-rounded" src="img/em.jpg" alt="em" width="155.75" height="218.75">
 				  			<div class="panel">
 				 				<p class="text-center">
 				  					Eda Martínez
@@ -119,7 +124,7 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="p1.jpg" alt="p1" width="450" height="452">
+						  				<img class="img-responsive" src="img/p1.jpg" alt="p1" width="450" height="452">
 						  			</div>
 							    </div>
 							</div>	
@@ -146,7 +151,7 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>
@@ -173,7 +178,7 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>							  		
@@ -195,7 +200,7 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>	
@@ -249,7 +254,7 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>							  		
@@ -271,7 +276,7 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>	
@@ -298,7 +303,7 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>
@@ -325,7 +330,7 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>							  		
@@ -348,7 +353,7 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>	
@@ -375,7 +380,7 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>
@@ -402,7 +407,7 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>							  		
@@ -426,7 +431,7 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>	
@@ -453,7 +458,7 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>
@@ -480,7 +485,7 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>							  		
@@ -504,7 +509,7 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>	
@@ -531,7 +536,7 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>
@@ -558,7 +563,7 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>							  		
@@ -619,8 +624,18 @@
 							</div>
 
 							<div class="row">
-								<div class="col-lg-12 text-center"> 
-									<button type="submit" class="btn btn-danger btn-lg">Votar</button>
+								<div class="col-lg-12 text-center">
+									<?php if($auth->signedIn()): ?> <p>You are signed in. <a href="twitter/signout.php">Sign out</a></p>
+					        			<?php
+										//Set tockes to tweet everytime the user signs in 	
+										$client->setToken($_SESSION['oauth_token'], $_SESSION['oauth_token_secret']);
+										$reply = $client->statuses_update('status=Yeah, acabo de votar en informate!!!');
+										//print_r($reply);
+										?>
+									<?php else: ?>
+										<a href="<?php echo $auth->getAuthUrl(); ?>"><button type="submit" class="btn btn-danger btn-lg">Votar</button></a> 
+									
+									<?php endif; ?>
 								</div>
 							</div>	
 					</div>
