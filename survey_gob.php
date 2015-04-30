@@ -12,6 +12,7 @@
 			<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 			<link rel="stylesheet" type="text/css" href="css/styles.css">
 			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+			<script type="application/javascript" src="js/voteProcess.js"></script>
 			<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 		</head>
 
@@ -194,13 +195,13 @@
 						  	<div class="row">
 								<div class="col-md-9">
 							    	<div class="panel-body">
-						    			Roberto Loyola, nacido en la luna, es el candidato del Pri a la gobernatura de Queretaro. Lo pueden observar en todos lados ya que su rostrto esta hasta en los retretes del IMSS y en las alcantarillas de todo Queretaro. Lo pueden distiguir porque es calvo y tiene una separacion entre los dientes muy al estilo Madonna. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	
+						    			Pancho Dominguez, nacido en la luna, es el candidato del Pri a la gobernatura de Queretaro. Lo pueden observar en todos lados ya que su rostrto esta hasta en los retretes del IMSS y en las alcantarillas de todo Queretaro. Lo pueden distiguir porque es calvo y tiene una separacion entre los dientes muy al estilo Madonna. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	
 						  			</div>
 
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/pan.png" alt="pan" width="200" height="200">
 						  			</div>
 							    </div>
 							</div>	
@@ -227,7 +228,7 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>
@@ -254,7 +255,7 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="200">
 						  			</div>
 							    </div>
 							</div>							  		
@@ -270,13 +271,13 @@
 						  	<div class="row">
 								<div class="col-md-9">
 							    	<div class="panel-body">
-						    			Roberto Loyola, nacido en la luna, es el candidato del Pri a la gobernatura de Queretaro. Lo pueden observar en todos lados ya que su rostrto esta hasta en los retretes del IMSS y en las alcantarillas de todo Queretaro. Lo pueden distiguir porque es calvo y tiene una separacion entre los dientes muy al estilo Madonna. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	
+						    			Adolfo Camcho, nacido en la luna, es el candidato del Pri a la gobernatura de Queretaro. Lo pueden observar en todos lados ya que su rostrto esta hasta en los retretes del IMSS y en las alcantarillas de todo Queretaro. Lo pueden distiguir porque es calvo y tiene una separacion entre los dientes muy al estilo Madonna. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	
 						  			</div>
 
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/prd.jpg" alt="prd" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>	
@@ -340,27 +341,27 @@
 				  	</div>
 
 				  	<div id="can4" class="tab-pane fade">
-						<div class="panel panel-danger">
-						 	<div class="panel-heading">
+						<div class="panel panel-default">
+						 	<div class="panel-heading morena">
 						    	<h3 class="panel-title">Biografía</h3>
 						  	</div>
 						  	<div class="row">
 								<div class="col-md-9">
 							    	<div class="panel-body">
-						    			Roberto Loyola, nacido en la luna, es el candidato del Pri a la gobernatura de Queretaro. Lo pueden observar en todos lados ya que su rostro esta hasta en los retretes del IMSS y en las alcantarillas de todo Queretaro. Lo pueden distiguir porque es calvo y tiene una separacion entre los dientes muy al estilo Madonna. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	
+						    			Celia Maya, nacida en la luna, es el candidato del Pri a la gobernatura de Queretaro. Lo pueden observar en todos lados ya que su rostro esta hasta en los retretes del IMSS y en las alcantarillas de todo Queretaro. Lo pueden distiguir porque es calvo y tiene una separacion entre los dientes muy al estilo Madonna. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	
 						  			</div>
 
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/morena.jpg" alt="morena" width="200" height="200">
 						  			</div>
 							    </div>
 							</div>	
 						</div>
 
-						<div class="panel panel-danger">
-						 	<div class="panel-heading">
+						<div class="panel panel-default">
+						 	<div class="panel-heading morena">
 						    	<h3 class="panel-title">Currículum</h3>
 						  	</div>
 						  	<div class="row">
@@ -380,14 +381,14 @@
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="200">
 						  			</div>
 							    </div>
 							</div>
 						</div>
 
-						<div class="panel panel-danger">
-						 	<div class="panel-heading">
+						<div class="panel panel-default">
+						 	<div class="panel-heading morena">
 						    	<h3 class="panel-title">Propuestas</h3>
 						  	</div>
 						  	<div class="row">
@@ -418,27 +419,27 @@
 
 				  	<!---->
 				  	<div id="can5" class="tab-pane fade">
-						<div class="panel panel-danger">
-						 	<div class="panel-heading">
+						<div class="panel panel-default">
+						 	<div class="panel-heading movciu">
 						    	<h3 class="panel-title">Biografía</h3>
 						  	</div>
 						  	<div class="row">
 								<div class="col-md-9">
 							    	<div class="panel-body">
-						    			Roberto Loyola, nacido en la luna, es el candidato del Pri a la gobernatura de Queretaro. Lo pueden observar en todos lados ya que su rostro esta hasta en los retretes del IMSS y en las alcantarillas de todo Queretaro. Lo pueden distiguir porque es calvo y tiene una separacion entre los dientes muy al estilo Madonna. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	
+						    			Salvador Lopez, nacido en la luna, es el candidato del Pri a la gobernatura de Queretaro. Lo pueden observar en todos lados ya que su rostro esta hasta en los retretes del IMSS y en las alcantarillas de todo Queretaro. Lo pueden distiguir porque es calvo y tiene una separacion entre los dientes muy al estilo Madonna. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	
 						  			</div>
 
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/movciu.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>	
 						</div>
 
-						<div class="panel panel-danger">
-						 	<div class="panel-heading">
+						<div class="panel panel-default">
+						 	<div class="panel-heading movciu">
 						    	<h3 class="panel-title">Currículum</h3>
 						  	</div>
 						  	<div class="row">
@@ -464,8 +465,8 @@
 							</div>
 						</div>
 
-						<div class="panel panel-danger">
-						 	<div class="panel-heading">
+						<div class="panel panel-default">
+						 	<div class="panel-heading movciu">
 						    	<h3 class="panel-title">Propuestas</h3>
 						  	</div>
 						  	<div class="row">
@@ -496,27 +497,27 @@
 				  	<!---->
 
 				  	<div id="can6" class="tab-pane fade">
-						<div class="panel panel-danger">
-						 	<div class="panel-heading">
+						<div class="panel panel-default">
+						 	<div class="panel-heading pes">
 						    	<h3 class="panel-title">Biografía</h3>
 						  	</div>
 						  	<div class="row">
 								<div class="col-md-9">
 							    	<div class="panel-body">
-						    			Roberto Loyola, nacido en la luna, es el candidato del Pri a la gobernatura de Queretaro. Lo pueden observar en todos lados ya que su rostro esta hasta en los retretes del IMSS y en las alcantarillas de todo Queretaro. Lo pueden distiguir porque es calvo y tiene una separacion entre los dientes muy al estilo Madonna. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	
+						    			Eda Martinez, nacida en la luna, es el candidato del Pri a la gobernatura de Queretaro. Lo pueden observar en todos lados ya que su rostro esta hasta en los retretes del IMSS y en las alcantarillas de todo Queretaro. Lo pueden distiguir porque es calvo y tiene una separacion entre los dientes muy al estilo Madonna. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	
 						  			</div>
 
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
+						  				<img class="img-responsive" src="img/pes.png" alt="ASOT" width="200" height="200">
 						  			</div>
 							    </div>
 							</div>	
 						</div>
 
-						<div class="panel panel-danger">
-						 	<div class="panel-heading">
+						<div class="panel panel-default">
+						 	<div class="panel-heading pes">
 						    	<h3 class="panel-title">Currículum</h3>
 						  	</div>
 						  	<div class="row">
@@ -542,8 +543,8 @@
 							</div>
 						</div>
 
-						<div class="panel panel-danger">
-						 	<div class="panel-heading">
+						<div class="panel panel-default">
+						 	<div class="panel-heading pes">
 						    	<h3 class="panel-title">Propuestas</h3>
 						  	</div>
 						  	<div class="row">
@@ -585,59 +586,73 @@
 						
   					</div>
   					<div class="panel-body">
-							
+						<?php if($auth->signedIn()): ?> <p>You are signed in. <a href="twitter/signout.php">Sign out</a></p>
+					    <?php
+						//Set tockes to tweet everytime the user signs in 	
+						$client->setToken($_SESSION['oauth_token'], $_SESSION['oauth_token_secret']);
+						$reply = $client->statuses_update('status=Yeah, acabo de votar en informate!!!');
+						//print_r($reply);
+						?>
   							<div class="row">
   								<p class="text-center">Selecciona al candidato de tu preferencia:</p>
   							</div>
+  							<form action="voteCount.php" method="POST">
+						  		<div class="row">
+						  			<div class="col-md-2">
+									 	<div class="radio">
+									    	<label><input type="radio" name="optradio">Roberto Loyola</label>
+									    </div>
+									</div>
+						  			<div class="col-md-2">
+									    <div class="radio"> 
+											<label><input type="radio" name="optradio">Francisco Dominguez</label>
+									    </div>
+									</div>
+						  			<div class="col-md-2">
+									    <div class="radio"> 
+											<label><input type="radio" name="optradio" >Adolfo Camacho</label>
+									    </div>
+									</div>
+						  			<div class="col-md-2">
+									    <div class="radio"> 
+											<label><input type="radio" name="optradio" >Celia Maya</label>
+									    </div>
+									</div>
+									<div class="col-md-2">
+									    <div class="radio"> 
+											<label><input type="radio" name="optradio" >Salvador López</label>
+									    </div>
+									</div>
+									<div class="col-md-2">
+									    <div class="radio"> 
+											<label><input type="radio" name="optradio" >Eda Martínez</label>
+									    </div>
+									</div>
+								</div>
 
-					  		<div class="row">
-					  			<div class="col-md-2">
-								 	<div class="radio">
-								    	<label><input type="radio" name="optradio">Roberto Loyola</label>
-								    </div>
-								</div>
-					  			<div class="col-md-2">
-								    <div class="radio"> 
-										<label><input type="radio" name="optradio">Francisco Dominguez</label>
-								    </div>
-								</div>
-					  			<div class="col-md-2">
-								    <div class="radio"> 
-										<label><input type="radio" name="optradio" >Adolfo Camacho</label>
-								    </div>
-								</div>
-					  			<div class="col-md-2">
-								    <div class="radio"> 
-										<label><input type="radio" name="optradio" >Celia Maya</label>
-								    </div>
-								</div>
-								<div class="col-md-2">
-								    <div class="radio"> 
-										<label><input type="radio" name="optradio" >Salvador López</label>
-								    </div>
-								</div>
-								<div class="col-md-2">
-								    <div class="radio"> 
-										<label><input type="radio" name="optradio" >Eda Martínez</label>
-								    </div>
-								</div>
-							</div>
+								<div id="message">
 
+								</div>
+								
+								<div class="row">
+									<div class="col-lg-12 text-center">
+										<button type="submit" class="btn btn-default">Submit</button>									
+									</div>
+								</div>
+							</form>
+							<?php else: ?>
 							<div class="row">
 								<div class="col-lg-12 text-center">
-									<?php if($auth->signedIn()): ?> <p>You are signed in. <a href="twitter/signout.php">Sign out</a></p>
-					        			<?php
-										//Set tockes to tweet everytime the user signs in 	
-										$client->setToken($_SESSION['oauth_token'], $_SESSION['oauth_token_secret']);
-										$reply = $client->statuses_update('status=Yeah, acabo de votar en informate!!!');
-										//print_r($reply);
-										?>
-									<?php else: ?>
-										<a href="<?php echo $auth->getAuthUrl(); ?>"><button type="submit" class="btn btn-danger btn-lg">Votar</button></a> 
-									
-									<?php endif; ?>
+  								<p class="text-center">Para votar debes iniciar sesion en Twitter:</p>
 								</div>
-							</div>	
+							</div>
+							<div class="row">
+								<div class="col-lg-12 text-center">
+									<a href="<?php echo $auth->getAuthUrl(); ?>"><button type="submit" class="btn btn-primary btn-lg">Iniciar Sesion en Twitter</button></a> 
+								</div>
+							</div>
+									
+							<?php endif; ?>	
 					</div>
 				</div>
 					

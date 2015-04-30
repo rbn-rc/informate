@@ -2,3 +2,18 @@ body {
 	background-image: url("../img/fondo.jpg");
 	opacity: 0.95;
 }
+
+.morena{ 
+	background-color: #B82E00 !important;
+	color: #FFFFFF !important;
+ }
+
+ .movciu{ 
+	background-color: orange !important;
+	color: #FFFFFF !important;
+ }
+
+ .pes{ 
+	background-color: purple !important;
+	color: #FFFFFF !important;
+ }
