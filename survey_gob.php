@@ -10,7 +10,7 @@
 			<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 		</head>
 
-		
+	
 		<body>
 
 			<nav class="navbar navbar-inverse navbar-fixed-top">
@@ -21,8 +21,8 @@
 			    	</div>
 			    	<div>
 			    		<ul class ="nav navbar-nav">
-			        		<li><a href="#">Estadísticas</a></li>
-			        		<li><a href="survey_gob.php">Candidatos a Gobernador</a></li>
+			        		<li><a href="index.html">Estadísticas</a></li>
+			        		<li><a href="#">Candidatos a Gobernador</a></li>
 			        		<li><a href="survey_mun.php">Candidatos a Presidente Municipal</a></li>
 			      		</ul>
 			    	</div>

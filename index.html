@@ -12,12 +12,29 @@
 	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 	<!-- Archivos para las graficas -->
 	<script type="text/javascript" src="js/TableBarChart.js"></script>
-	<link rel="stylesheet" href="css/table.css" />
+	<link rel="stylesheet" href="css/tables.css" />
 	<!-- estilos para lo demás -->
 	<link rel="stylesheet" href="css/everythingElse.css" />
 </head>
 <body>
+		
+	<nav class="navbar navbar-inverse navbar-fixed-top">
+		<div class="container-fluid">
+		  	<div class="navbar-header">
+	      		<a class="navbar-brand" href="#">INFÓRMATE</a>
+	    	</div>
+	    	<div>
+	    		<ul class ="nav navbar-nav">
+	        		<li><a href="#">Estadísticas</a></li>
+	        		<li><a href="survey_gob.php">Candidatos a Gobernador</a></li>
+	        		<li><a href="survey_mun.php">Candidatos a Presidente Municipal</a></li>
+	      		</ul>
+	    	</div>
+	  	</div>
+	</nav>
+
 	<div class="container-fluid">
+		<br><br>
 		<div class="row">
 			<div class="col-sm-12">
 				<h1 id="t">Que no le digan, que no le cuenten. <br> Mejor informese</h1>
@@ -55,33 +72,33 @@
 						</tr>
 					</tbody>
 				</table>
-			<table id="source2">
-				<caption>Gobernador</caption>
-				<thead>
-					<tr>
-						<th></th>
-						<th>Votos registrados para gobernador</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<th>Candidato 1</th>
-						<td>1595</td>
-					</tr>
-					<tr>
-						<th>Candidato 2</th>
-						<td>1470</td>
-					</tr>
-					<tr>
-						<th>Candidato 3</th>
-						<td>2750</td>
-					</tr>
-					<tr>
-						<th>Candidato 4</th>
-						<td>170</td>
-					</tr>
-				</tbody>
-			</table>
+				<table id="source2">
+					<caption>Gobernador</caption>
+					<thead>
+						<tr>
+							<th></th>
+							<th>Votos registrados para gobernador</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th>Candidato 1</th>
+							<td>1595</td>
+						</tr>
+						<tr>
+							<th>Candidato 2</th>
+							<td>1470</td>
+						</tr>
+						<tr>
+							<th>Candidato 3</th>
+							<td>2750</td>
+						</tr>
+						<tr>
+							<th>Candidato 4</th>
+							<td>170</td>
+						</tr>
+					</tbody>
+				</table>
 		</div>
 			
 		<div class="row">
@@ -89,6 +106,10 @@
 			<div class="col-sm-6"> <div id="target2"></div> </div>
 		</div>
 	</div>
+	<br><br><br>
+	<br>
+	<br>
+	<br>
 
 	<div class="navbar navbar-default navbar-fixed-bottom">
 		<div class="container">
