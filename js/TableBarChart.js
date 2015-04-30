@@ -116,7 +116,7 @@ jQuery.fn.tableBarChart = function(targetDiv, caption, reverseGroup) {
 	}
 	
 	function getLegendHTML() {
-		var legendContainer = $('<ul class="legend"></ul>');
+		var legendContainer = $('<ul class="legend">');
 		$(legends).each(function(index) {
 			var legendItem = $('<li><span class="icon item-' + index + '"></span>' + 
 				this + '</li>');
@@ -124,6 +124,8 @@ jQuery.fn.tableBarChart = function(targetDiv, caption, reverseGroup) {
 				animateBar(index);
 			});
 			legendContainer.append(legendItem);
+			var legendEnd = $('</ul>');
+			legendContainer.append(legendEnd);
 		});
 		return legendContainer;
 	}
