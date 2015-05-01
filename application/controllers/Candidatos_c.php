@@ -10,7 +10,7 @@
 			$data['votos_gob'] = $this->candidatos->get_votos_gob();
 			$data['votos_mun'] = $this->candidatos->get_votos_mun();
 
-			$this->load->view('pages/'.$page,$data);
+			$this->load->view('pages/'.$page, $data);
 		}
 	}
 ?>
