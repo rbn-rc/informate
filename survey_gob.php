@@ -27,9 +27,9 @@
 			    	</div>
 			    	<div>
 			    		<ul class ="nav navbar-nav">
-			        		<li><a href="index.html">Estadísticas</a></li>
+			        		<li><a href="#">Estadísticas</a></li>
 			        		<li><a href="survey_gob.php">Candidatos a Gobernador</a></li>
-			        		<li><a href="survey_mun.php">Candidatos a Presidente Municipal</a></li>
+			        		<li><a href="survey_mun.php">Candidatos a Presidente Municipal</a></li>	
 			      		</ul>
 			    	</div>
 			  	</div>
