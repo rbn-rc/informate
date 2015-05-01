@@ -17,6 +17,22 @@ body{
 	right: 10px;
 }
 
+#irr{
+	text-align: center;
+}
+
+#siguiente-seccion{
+	float: center;
+}
+
+#Pres{
+	float: right;
+}
+
+#Gobs{
+	float: left;
+} 
+
 /*
 #last{
 	background-color : blue;

@@ -6,6 +6,7 @@
 	<meta charset="utf-8">
 	<!-- Declaracion para mejor visualización y zoom en dispositivos móviles -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<!-- Documentos de bootsrap -->
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
@@ -127,26 +128,35 @@
 					</tbody>
 				</table>
 		</div>
-			
-		<div class="row">
-			<div class="col-sm-6"> 
-				<div class="panel panel-default">
-					<div class="panel-body"><div id="target"></div></div> 
-				</div>
-			</div>
 
-			<div class="col-sm-6"> 
-				<div class="panel panel-default">
-					<div class="panel-body"><div id="target2"></div></div> 
-				</div>
-			</div>
-
+		<div class="jumbotron">
+			<p id="irr">Tomar decisiones sin información es peligroso e irresponsable. <br> 
+				Lo invitamos a revisar las propuestas de los candidatos y a dejarnos su opinion. <br>
+				No se apure, ya nos encargamos de la investigación y el resumen de las propuestas por usted. <br> 
+				La información se encuentra en las secciones de: <br>
+				<kbd id="Gobs">Candidatos a Gobernador</kbd><kbd id="Pres">Candidatos a Presidente Municipal</kbd>
+			</p>
+			<a id= "siguiente-seccion" href="#graficas" ><span class="glyphicons glyphicons-equalizer"></span></a>
 		</div>
-	</div>
-	<br><br><br>
+			<br><br><br>
 	<br>
 	<br>
 	<br>
+		<section id="graficas">
+			<div class="row">
+				<div class="col-sm-6"> 
+					<div class="panel panel-default">
+						<div class="panel-body"><div id="target"></div></div> 
+					</div>
+				</div>
+
+				<div class="col-sm-6"> 
+					<div class="panel panel-default">
+						<div class="panel-body"><div id="target2"></div></div> 
+					</div>
+				</div>
+			</div>	
+	</section>
 
 	<div class="navbar navbar-inverse navbar-fixed-bottom">
 		<div class="container-fluid">
