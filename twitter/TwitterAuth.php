@@ -6,7 +6,7 @@ class TwitterAuth
 
 	protected $db;
 
-	protected $clientCallback = 'http://127.0.0.1/proyecto_3/twitter/callback.php';
+	protected $clientCallback = 'http://127.0.0.1/informate/twitter/callback.php';
 
 
 	public function __construct(\Codebird\Codebird $client, DB $db = null)
