@@ -23,7 +23,7 @@
 
 				<div class="container-fluid">
 			    	<div class="navbar-header">
-			      		<a class="navbar-brand" href="#">INFÓRMATE</a>
+			      		<a class="navbar-brand" href="#" style="cursor:default;">INFÓRMATE</a>
 			    	</div>
 			    	<div>
 			    		<ul class ="nav navbar-nav">
