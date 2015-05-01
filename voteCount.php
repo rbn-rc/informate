@@ -4,6 +4,11 @@ require_once 'twitter/init.php';
 
 $errors         = array();  	// array to hold validation errors
 $data 			= array(); 		// array to pass back data
+//$mysqli = new mysqli('localhost', 'root', '', 'twitter_example');
+// if ($mysqli->connect_errno) {
+//     $errors['sql'] = "Failed to connect to MySQL: (" . $conn->connect_errno . ") " . $conn->connect_error;
+// } else {
+	//$errors['sql'] = "Success! " . $_SESSION['user_id'];
 
 // validate the variables ======================================================
 	// if any of these variables don't exist, add an error to our $errors array
@@ -12,19 +17,38 @@ $data 			= array(); 		// array to pass back data
 		$errors['radio'] = 'Seleccione un candidato.';
 	}
 
-	if ($result = $db->query("SELECT 'twitter_id' FROM 'users' WHERE 'votos'=1 AND 'twitter_id' =" + $_SESSION['user_id'])){
-		$row = mysqli_fetch_array($result);
-		if($row['twitter_id']){
-			$errors['radio'] = 'Usted ya ha votado!';
+	if($_POST['tipo'] == 'gob'){
+		if ($result = $db->query("SELECT twitter_id FROM users WHERE voto_gob=1 AND twitter_id =" . $_SESSION['user_id'])){
+			$row = mysqli_fetch_array($result);
+			if($row['twitter_id']){
+				$errors['radio'] = 'Usted ya ha votado por gobernador!';
+			} else {
+				$db->query("UPDATE users SET voto_gob=1 WHERE twitter_id=" . $_SESSION['user_id']);
+				//Agregar voto a candidato
+			}
+
 		} else {
-			$db->query("UPDATE 'users' SET 'votos'=1 WHERE 'twitter_id'=" + $_SESSION['user_id']);
-			//Agregar voto a candidato
+			$errors['radio'] = 'Error con la base de datos! ';
 		}
 
-	} else {
-			$errors['radio'] = 'Error con la base de datos!';
-	}
+	} else if ($_POST['tipo'] == 'mun'){
+		if ($result = $db->query("SELECT twitter_id FROM users WHERE voto_mun=1 AND twitter_id =" . $_SESSION['user_id'])){
+			$row = mysqli_fetch_array($result);
+			if($row['twitter_id']){
+				$errors['radio'] = 'Usted ya ha votado por presidente municipal!';
+			} else {
+				$db->query("UPDATE users SET voto_mun=1 WHERE twitter_id=" . $_SESSION['user_id']);
+				//Agregar voto a candidato
+			}
 
+		} else {
+			$errors['radio'] = 'Error con la base de datos!';
+		}
+	} else {
+		$errors['origen'] = $_POST['tipo'];
+	}
+	
+// }
 
 // return a response ===========================================================
 

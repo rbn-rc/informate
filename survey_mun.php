@@ -708,7 +708,7 @@
 						
   					</div>
   					<div class="panel-body">
-						<?php if($auth->signedIn()): ?> <p>You are signed in. <a href="twitter/signout.php">Sign out</a></p>
+						<?php if($auth->signedIn()): ?> <p><big>Usted ha iniciado sesión en Twitter. <a href="twitter/signout.php">Cerrar sesión en Twitter</a></big>
 					    <?php
 						//Set tockes to tweet everytime the user signs in 	
 						$client->setToken($_SESSION['oauth_token'], $_SESSION['oauth_token_secret']);
@@ -722,32 +722,42 @@
 						  		<div class="row">
 						  			<div class="col-md-2">
 									 	<div class="radio">
-									    	<label><input type="radio" name="optradio">Roberto Loyola</label>
+									    	<label><input type="radio" name="optradio" value='pozo'>Manuel Pozo</label>
 									    </div>
 									</div>
 						  			<div class="col-md-2">
 									    <div class="radio"> 
-											<label><input type="radio" name="optradio">Francisco Dominguez</label>
+											<label><input type="radio" name="optradio" value='aguilar'>Marcos Aguilar</label>
 									    </div>
 									</div>
 						  			<div class="col-md-2">
 									    <div class="radio"> 
-											<label><input type="radio" name="optradio" >Adolfo Camacho</label>
+											<label><input type="radio" name="optradio" value='barcenas' >Gonzalo Bárcenas</label>
 									    </div>
 									</div>
 						  			<div class="col-md-2">
 									    <div class="radio"> 
-											<label><input type="radio" name="optradio" >Celia Maya</label>
+											<label><input type="radio" name="optradio" value='miranda'>Angel Miranda</label>
 									    </div>
 									</div>
 									<div class="col-md-2">
 									    <div class="radio"> 
-											<label><input type="radio" name="optradio" >Salvador López</label>
+											<label><input type="radio" name="optradio" value='garcia'>Cristina García</label>
 									    </div>
 									</div>
 									<div class="col-md-2">
 									    <div class="radio"> 
-											<label><input type="radio" name="optradio" >Eda Martínez</label>
+											<label><input type="radio" name="optradio" value'buenrostro'>Gustavo Buenrostro</label>
+									    </div>
+									</div>
+									<div class="col-md-2">
+									    <div class="radio"> 
+											<label><input type="radio" name="optradio" value'robles'>Carlos Robles</label>
+									    </div>
+									</div>
+									<div class="col-md-2">
+									    <div class="radio"> 
+											<label><input type="radio" name="optradio" value'carrillo'>Marco Carrillo</label>
 									    </div>
 									</div>
 								</div>
@@ -758,7 +768,7 @@
 								
 								<div class="row">
 									<div class="col-lg-12 text-center">
-										<button type="submit" class="btn btn-default">Submit</button>									
+										<button type="submit" class="btn btn-danger btn-lg">Votar</button>									
 									</div>
 								</div>
 							</form>
