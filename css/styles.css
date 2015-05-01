@@ -8,12 +8,22 @@ body {
 	color: #FFFFFF !important;
  }
 
- .movciu{ 
+.movciu{ 
 	background-color: orange !important;
 	color: #FFFFFF !important;
  }
 
- .pes{ 
+.pes{ 
 	background-color: purple !important;
 	color: #FFFFFF !important;
+ }
+
+.ph{ 
+	background-color: #93256E !important;
+	color: #FFFFFF !important;
+ }
+
+.pt{ 
+	background-color: #FF0000 !important;
+	color: #FFFF00 !important;
  }

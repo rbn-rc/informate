@@ -48,7 +48,7 @@
 				<ul class="nav nav-tabs">
 				 	<li class="active">
 				 		<a data-toggle="tab" href="#can1">
-				 			<img class="img-responsive img-rounded" src="img/rl.jpg" alt="rl" width="105.6875" height="148.4375">
+				 			<img class="img-responsive img-rounded" src="img/manuelpozo.jpg" alt="rl" width="105.6875" height="148.4375">
 				 			<div class="panel">
 				 				<p class="text-center">
 				 					Manuel Pozo
@@ -58,7 +58,7 @@
 				 	</li>
 				  	<li>
 				  		<a data-toggle="tab" href="#can2">
-				  			<img class="img-responsive img-rounded" src="img/pd.jpg" alt="pd" width="105.6875" height="148.4375">
+				  			<img class="img-responsive img-rounded" src="img/marcosaguilar.jpg" alt="pd" width="105.6875" height="148.4375">
 				  			<div class="panel">
 				 				<p class="text-center">
 				  					Marcos Aguilar
@@ -68,7 +68,7 @@
 				  	</li>
 				  	<li>
 				  		<a data-toggle="tab" href="#can3">
-				  			<img class="img-responsive img-rounded" src="img/ac.jpg" alt="ac" width="105.6875" height="148.4375">
+				  			<img class="img-responsive img-rounded" src="img/gonzalobarcenas.jpg" alt="ac" width="105.6875" height="148.4375">
 				  			<div class="panel">
 				 				<p class="text-center">
 				 					<small>Gonzalo Bárcenas</small>
@@ -78,7 +78,7 @@
 				  	</li>
 				  	<li>
 				  		<a data-toggle="tab" href="#can4">
-				  			<img class="img-responsive img-rounded" src="img/cm.jpg" alt="cm" width="105.6875" height="148.4375">
+				  			<img class="img-responsive img-rounded" src="img/angel2.jpg" alt="cm" width="105.6875" height="148.4375">
 				  			<div class="panel">
 				 				<p class="text-center">
 				  					Ángel Miranda
@@ -88,7 +88,7 @@
 				  	</li>
 				  	<li>
 				  		<a data-toggle="tab" href="#can5">
-				  			<img class="img-responsive img-rounded" src="img/sa.jpg" alt="sa" width="105.6875" height="148.4375">
+				  			<img class="img-responsive img-rounded" src="img/cristinaberenice.jpg" alt="sa" width="105.6875" height="148.4375">
 				  			<div class="panel">
 				 				<p class="text-center">
 				  					Cristina García
@@ -98,7 +98,7 @@
 				  	</li>
 				  	<li>
 				  		<a data-toggle="tab" href="#can6">
-				  			<img class="img-responsive img-rounded" src="img/em.jpg" alt="em" width="105.6875" height="148.4375">
+				  			<img class="img-responsive img-rounded" src="img/buenrostro2.jpg" alt="em" width="105.6875" height="148.4375">
 				  			<div class="panel">
 				 				<p class="text-center">
 				  					<small>Gustavo Buenrostro</small>
@@ -108,7 +108,7 @@
 				  	</li>
 				  	<li>
 				  		<a data-toggle="tab" href="#can7">
-				  			<img class="img-responsive img-rounded" src="img/em.jpg" alt="em" width="105.6875" height="148.4375">
+				  			<img class="img-responsive img-rounded" src="img/ph.png" alt="em" width="105.6875" height="148.4375">
 				  			<div class="panel">
 				 				<p class="text-center">
 				  					Carlos Robles
@@ -118,7 +118,7 @@
 				  	</li>	
 				  	<li>
 				  		<a data-toggle="tab" href="#can8">
-				  			<img class="img-responsive img-rounded" src="img/em.jpg" alt="em" width="105.6875" height="148.4375">
+				  			<img class="img-responsive img-rounded" src="img/marcoantonio.jpg" alt="em" width="105.6875" height="148.4375">
 				  			<div class="panel">
 				 				<p class="text-center">
 				  					Marco Carrillo
@@ -139,13 +139,13 @@
 						  	<div class="row">
 								<div class="col-md-9">
 							    	<div class="panel-body">
-						    			Roberto Loyola, nacido en la luna, es el candidato del Pri a la gobernatura de Queretaro. Lo pueden observar en todos lados ya que su rostro esta hasta en los retretes del IMSS y en las alcantarillas de todo Queretaro. Lo pueden distiguir porque es calvo y tiene una separacion entre los dientes muy al estilo Madonna. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	
+						    			<p>Nacido el 3 de Febrero de 1975 en la ciudad de Querétaro, Manuel Cabrera tiene un título universitario en Contaduría y Derecho, ambos otorgados por su Alma mater, la Universidad Autónoma de Querétaro (UAQ).</p>	
 						  			</div>
 
 							    </div>
 							    <div class="col-md-3"> 
 							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/p1.jpg" alt="p1" width="450" height="452">
+						  				<img class="img-responsive" src="img/pri0.jpg" alt="p1" width="450" height="452">
 						  			</div>
 							    </div>
 							</div>	
@@ -159,13 +159,11 @@
 								<div class="col-md-9">
 							    	<div class="panel-body">
 						    			<ul>
-						    				<li>Presidente Municipal de Queretaro</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+						    				<li>PresiSecretario de Finanzas del CDE PRI.</li>
+						    				<li>Secretario de Planeación del CNOP.</li>
+						    				<li>Delegado del CDE en Huimilpan.</li>
+						    				<li>Consejero Municipal, Estatal y Nacional.</li>
+						    				<li>Fundó su propio despacho de asesoría Contable y Jurídica.</li>
 						    			</ul>
 						  			</div>
 
@@ -186,13 +184,14 @@
 								<div class="col-md-9">
 							    	<div class="panel-body">
 						    			<ul>
-						    				<li>Parchar los baches de Queretaro</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+						    				<li>Programa de visión ciudadana</li>
+						    				<li>App de reportes de usuarios registrados y validados.</li>
+						    				<li>Reorganización de la fuerza (tránsito y policía motorizada).</li>
+						    				<li>Construcción de 5 comandancias.</li>
+						    				<li>Construcción de tres cipreses.</li>
+						    				<li>Cámaras y seguridad privada reportando al centro de mando.</li>
+						    				<li>Coproducción de seguridad.</li>
+						    				<li>Policía mejor equipada, más capacitada y mejor pagada.</li>
 						    			</ul>
 						  			</div>
 
@@ -215,7 +214,7 @@
 						  	<div class="row">
 								<div class="col-md-9">
 							    	<div class="panel-body">
-						    			Pancho Dominguez, nacido en la luna, es el candidato del Pri a la gobernatura de Queretaro. Lo pueden observar en todos lados ya que su rostrto esta hasta en los retretes del IMSS y en las alcantarillas de todo Queretaro. Lo pueden distiguir porque es calvo y tiene una separacion entre los dientes muy al estilo Madonna. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	
+						    			<p>Nacido el 5 de julio de 1972, en la ciudad de Querétaro. Es Licenciado en Derecho por la Universidad Autónoma de Querétaro y tiene una maestría en Derecho Constitucional por la misma, Además de ser un Investigador de la Universidad de California en Santa Bárbara, CA.</p>	
 						  			</div>
 
 							    </div>
@@ -235,13 +234,10 @@
 								<div class="col-md-9">
 							    	<div class="panel-body">
 						    			<ul>
-						    				<li>Presidente Municipal de Queretaro</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+						    				<li>Diputado local en la LVI Legislatura del Congreso de Querétaro. (2009-2012)</li>
+						    				<li>Presidió las comisiones de Movilidad Sustentable, tránsito, vialidad y Autotransporte Público.</li>
+						    				<li>Coordinador de transparencia y rendición de cuentas para la presentación de la plataforma política electoral (2009-2012).</li>
+						    				<li>Consejero estatal en Querétaro e integrante del CDE del PAN.</li>
 						    			</ul>
 						  			</div>
 
@@ -262,13 +258,9 @@
 								<div class="col-md-9">
 							    	<div class="panel-body">
 						    			<ul>
-						    				<li>Parchar los baches de Queretaro</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+						    				<li>Plan de movilidad en la capital</li>
+						    				<li>Plan para afrontar el narcomenudeo que afecta a los barrios, colonias y universidades en Querétaro.</li>
+						    				<li>Creación de un instituto que garantice que cualquier persona pueda recibir capacitación y formación gratuita desde el gobierno municipal para establecer un negocio. Que este instituto pueda promover la generación de incubadoras comerciales o incubadoras familiares de negocios, y pueda traer recursos del gobierno federal para invertirlos en nuevos emprendedores.</li>
 						    			</ul>
 						  			</div>
 
@@ -291,7 +283,7 @@
 						  	<div class="row">
 								<div class="col-md-9">
 							    	<div class="panel-body">
-						    			Adolfo Camcho, nacido en la luna, es el candidato del Pri a la gobernatura de Queretaro. Lo pueden observar en todos lados ya que su rostrto esta hasta en los retretes del IMSS y en las alcantarillas de todo Queretaro. Lo pueden distiguir porque es calvo y tiene una separacion entre los dientes muy al estilo Madonna. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	
+						    			<p>Nace el 11 de mayo de 1985 en la ciudad de Querétaro. Egresado de la Autónoma de Querétaro de la Licenciatura en Ciencia Políticas y Administración Pública, con Maestría en Ciencia Sociales y especialidad en Estudios Socio territoriales. </p>	
 						  			</div>
 
 							    </div>
@@ -311,13 +303,7 @@
 								<div class="col-md-9">
 							    	<div class="panel-body">
 						    			<ul>
-						    				<li>Presidente Municipal de Queretaro</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+						    				<li>Secretario de las Juventudes de Izquierda del PRD en Querétaro</li>
 						    			</ul>
 						  			</div>
 
@@ -338,13 +324,7 @@
 								<div class="col-md-9">
 							    	<div class="panel-body">
 						    			<ul>
-						    				<li>Parchar los baches de Queretaro</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+						    				<li>Sostiene que es urgente generar los espacios y las actividades educativas, recreativas y culturales, para inhibir el delito, para que delinquir no sea una opción. La propuesta que presenta a la ciudadanía es la de un gobernante sensible ante las necesidades sociales. “Sociedad y gobierno son el binomio perfecto para solventar juntos cualquier problema o situación que se presente” sostuvo el candidato.</li>
 						    			</ul>
 						  			</div>
 
@@ -368,7 +348,7 @@
 						  	<div class="row">
 								<div class="col-md-9">
 							    	<div class="panel-body">
-						    			Celia Maya, nacida en la luna, es el candidato del Pri a la gobernatura de Queretaro. Lo pueden observar en todos lados ya que su rostro esta hasta en los retretes del IMSS y en las alcantarillas de todo Queretaro. Lo pueden distiguir porque es calvo y tiene una separacion entre los dientes muy al estilo Madonna. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	
+						    			<p>Nació en la ciudad de Querétaro y es Licenciado en Derecho, Universidad Autónoma de Querétaro (UAQ); Doctor en Ciencia Política, Facultad de Ciencias Políticas y Sociales de la UNAM.</p>	
 						  			</div>
 
 							    </div>
@@ -388,13 +368,9 @@
 								<div class="col-md-9">
 							    	<div class="panel-body">
 						    			<ul>
-						    				<li>Presidente Municipal de Queretaro</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+						    				<li>Coordinador del Centro de Investigaciones Sociales de la UAQ.</li>
+						    				<li>Profesor/investigador de la Facultad de Ciencias Políticas y Sociales de la UAQ.</li>
+						    				<li>Fue Consejero Electoral y Presidente del Instituto Electoral de Querétaro. Actualmente es profesor/investigador jubilado.</li>
 						    			</ul>
 						  			</div>
 
@@ -415,13 +391,11 @@
 								<div class="col-md-9">
 							    	<div class="panel-body">
 						    			<ul>
-						    				<li>Parchar los baches de Queretaro</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+						    				<li>Reducir los excesivos sueldos que se atribuyen los altos funcionarios públicos (Presidente Municipal, síndicos, regidores, cuadros intermedios y altos).</li>
+						    				<li>Generar las condiciones para el empleo, agilizando y simplificando los trámites burocráticos y asesorando administrativamente al pequeño y mediano industrial y comercial; así mismo desarrollaremos una política de promoción de la economía popular, social y solidaria (cooperativas, empresas sociales, escuelas de artes y oficios, sistema de ahorro y crédito popular, entre otros).</li>
+						    				<li>En materia de seguridad, fortalecer con cuerpos policíacos de barrio honestos, capacitados y que respeten los derechos humanos para que estén en tu colonia, fraccionamiento, ejido o comunidad protegiendo tu patrimonio y tu seguridad personal.</li>
+						    				<li>Atacar el fenómeno del pandillerismo con valores éticos, diseñando diversos programas culturales, deportivos, artísticos y educativos.</li>
+						    				<li>Desarrollar un transporte masivo económico, ecológico, ordenado y eficaz; igualmente ampliaremos las ciclopistas y los espacios peatonales para tener una ciudad con mejor movilidad para todos y no solo para el automóvil.</li>
 						    			</ul>
 						  			</div>
 
@@ -446,7 +420,7 @@
 						  	<div class="row">
 								<div class="col-md-9">
 							    	<div class="panel-body">
-						    			Salvador Lopez, nacido en la luna, es el candidato del Pri a la gobernatura de Queretaro. Lo pueden observar en todos lados ya que su rostro esta hasta en los retretes del IMSS y en las alcantarillas de todo Queretaro. Lo pueden distiguir porque es calvo y tiene una separacion entre los dientes muy al estilo Madonna. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	
+						    			Nacida en la ciudad de Querétaro, la candidata Berenice García estudió la licenciatura en Derecho en la Facultad de Derecho de la UAQ. 	
 						  			</div>
 
 							    </div>
@@ -466,12 +440,12 @@
 								<div class="col-md-9">
 							    	<div class="panel-body">
 						    			<ul>
-						    				<li>Presidente Municipal de Queretaro</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+						    				<li>Secretaria de Organización, integrante de la Comisión Operativa Estatal.</li>
+						    				<li>Secretaria de la Coordinadora Ciudadana Estatal.</li>
+						    				<li>Secretaria de la Coordinadora Ciudadana Nacional.</li>
+						    				<li>Secretaria del Consejo Ciudadano Nacional.</li>
+						    				<li>Delegada a la Primera y Segunda Convención Nacional Democrática.</li>
+						    				<li>Coordinadora de dos campañas a la presidencia municipal de Querétaro.</li>
 						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
 						    			</ul>
 						  			</div>
@@ -493,13 +467,9 @@
 								<div class="col-md-9">
 							    	<div class="panel-body">
 						    			<ul>
-						    				<li>Parchar los baches de Queretaro</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+						    				<li>Tener un municipio austero, que se conseguiría mediante la disminución de sueldos en trabajadores que van desde directores hacía arriba, esto con el objetivo de disminuir deudas y mantener finanzas sanas.</li>
+						    				<li>En el tema pluvial sugirió la necesidad de revisar todos los drenes y brindar los servicios necesarios para que no pasen cosas como en Peñuelas, en donde un fenómeno meteorológico rebasó cualquier obra.</li>
+						    				<li>En lo referente a las declaraciones patrimoniales, advirtió que se está utilizando más como un instrumento de descalificaciones entre partidos, que un verdadero ejercicio de transparencia y señaló que desde su trinchera no tiene conflictos de interés de ningún tipo.</li>
 						    			</ul>
 						  			</div>
 
@@ -516,6 +486,75 @@
 				  	</div>
 				  	<!---->
 
+				  	<div id="can7" class="tab-pane fade">
+						<div class="panel panel-default">
+						 	<div class="panel-heading ph">
+						    	<h3 class="panel-title">Biografía</h3>
+						  	</div>
+						  	<div class="row">
+								<div class="col-md-9">
+							    	<div class="panel-body">
+						    			Desconocido.	
+						  			</div>
+
+							    </div>
+							    <div class="col-md-3"> 
+							      	<div class="container-fluid">
+						  				<img class="img-responsive" src="img/ph.png" alt="ASOT" width="200" height="200">
+						  			</div>
+							    </div>
+							</div>	
+						</div>
+
+						<div class="panel panel-default">
+						 	<div class="panel-heading ph">
+						    	<h3 class="panel-title">Currículum</h3>
+						  	</div>
+						  	<div class="row">
+								<div class="col-md-9">
+							    	<div class="panel-body">
+						    			<ul>
+						    				<li>Desconocido.</li>
+						    			</ul>
+						  			</div>
+
+							    </div>
+							    <div class="col-md-3"> 
+							      	<div class="container-fluid">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
+						  			</div>
+							    </div>
+							</div>
+						</div>
+
+						<div class="panel panel-default">
+						 	<div class="panel-heading ph">
+						    	<h3 class="panel-title">Propuestas</h3>
+						  	</div>
+						  	<div class="row">
+								<div class="col-md-9">
+							    	<div class="panel-body">
+						    			<ul>
+						    				<li>Fomentar, promover y generar una cultura de derechos humanos hacia los militantes, a la ciudadanía y exigir que todas las autoridades en el ámbito de su competencia los promueva. </li>
+						    				<li>Fomentar un Mercado con comercio justo.</li>
+						    				<li>Promover una política salarial progresiva que fortalezca el crecimiento de la economía familiar.</li>
+						    				<li>Garantizar el derecho al internet y a la conectividad global. </li>
+						    			</ul>
+						  			</div>
+
+							    </div>
+							    <div class="col-md-3"> 
+							      	<div class="container-fluid">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
+						  			</div>
+							    </div>
+							</div>							  		
+						</div>
+
+						<hr>
+				  	</div>
+
+				  	<!---->
 				  	<div id="can6" class="tab-pane fade">
 						<div class="panel panel-default">
 						 	<div class="panel-heading pes">
@@ -524,7 +563,7 @@
 						  	<div class="row">
 								<div class="col-md-9">
 							    	<div class="panel-body">
-						    			Eda Martinez, nacida en la luna, es el candidato del Pri a la gobernatura de Queretaro. Lo pueden observar en todos lados ya que su rostro esta hasta en los retretes del IMSS y en las alcantarillas de todo Queretaro. Lo pueden distiguir porque es calvo y tiene una separacion entre los dientes muy al estilo Madonna. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	
+						    			Nace el 29 de noviembre de 1965. Tiene una Licenciatura en Derecho por la UVM y una maestría en Derecho Constitucional y Amparo.	
 						  			</div>
 
 							    </div>
@@ -544,13 +583,9 @@
 								<div class="col-md-9">
 							    	<div class="panel-body">
 						    			<ul>
-						    				<li>Presidente Municipal de Queretaro</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+						    				<li>Coordinador general del Colegio de Abogados Litigantes de Querétaro</li>
+						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Secretario Ejecutivo Nacional de la Federación Nacional de Abogados.</li>
+						    				<li>Miembro de la Unión Social de Empresarios Mexicanos.</li>
 						    			</ul>
 						  			</div>
 
@@ -571,13 +606,80 @@
 								<div class="col-md-9">
 							    	<div class="panel-body">
 						    			<ul>
-						    				<li>Parchar los baches de Queretaro</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+						    				<li>Encuentro Social propone un encuentro de clases, una nueva manera de ver y hacer política, partiendo de valores firmes y principios claros. No es una lucha de carácter ideológico, utópico, sino un encuentro de clases basado en la consciencia social. Nuestro programa político tiene como principal postulado la reconciliación nacional.</li>
+						    				<li>Promover intensamente la idea de un nuevo pacto social, fruto de la combinación de un gobierno limitado, una sociedad movilizada, el reconocimiento al núcleo familiar y el respeto a la ley y a la dignidad del ser humano.</li>
+						    			</ul>
+						  			</div>
+
+							    </div>
+							    <div class="col-md-3"> 
+							      	<div class="container-fluid">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
+						  			</div>
+							    </div>
+							</div>							  		
+						</div>
+
+						<hr>
+				  	</div>
+
+				  	<!---->
+				  	<div id="can8" class="tab-pane fade">
+						<div class="panel panel-default">
+						 	<div class="panel-heading pt">
+						    	<h3 class="panel-title">Biografía</h3>
+						  	</div>
+						  	<div class="row">
+								<div class="col-md-9">
+							    	<div class="panel-body">
+						    			Estudió Licenciatura en Contaduría por la Universidad Autónoma de México UNAM, una maestría en Psicología  y un Doctorado  Psicología y Educación por la Universidad Autónoma de Querétaro (UAQ).	
+						  			</div>
+
+							    </div>
+							    <div class="col-md-3"> 
+							      	<div class="container-fluid">
+						  				<img class="img-responsive" src="img/pt.png" alt="ASOT" width="200" height="200">
+						  			</div>
+							    </div>
+							</div>	
+						</div>
+
+						<div class="panel panel-default">
+						 	<div class="panel-heading pt">
+						    	<h3 class="panel-title">Currículum</h3>
+						  	</div>
+						  	<div class="row">
+								<div class="col-md-9">
+							    	<div class="panel-body">
+						    			<ul>
+						    				<li>Profesor investigador de tiempo completo de la Facultad de Psicología, Universidad Autónoma de Querétaro.</li>
+						    				<li>Profesor titular de las materias de Historia y Sociedad I; Historia y Sociedad II; Cultura y Sociedad en México; Métodos en Psicología I.</li>
+						    				<li>Coordinador de la Unidad Multidisciplinaria de Estudios Sobre el Trabajo, UAQ.</li>
+						    			</ul>
+						  			</div>
+
+							    </div>
+							    <div class="col-md-3"> 
+							      	<div class="container-fluid">
+						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
+						  			</div>
+							    </div>
+							</div>
+						</div>
+
+						<div class="panel panel-default">
+						 	<div class="panel-heading pt">
+						    	<h3 class="panel-title">Propuestas</h3>
+						  	</div>
+						  	<div class="row">
+								<div class="col-md-9">
+							    	<div class="panel-body">
+						    			<ul>
+						    				<li>Lanza el reto de bajar a la mitad el sueldo del presidente municipal “yo invito a los candidatos y al ganador para que se reduzca el sueldo en 50% que hoy es de 126 mil pesos”. </li>
+						    				<li>Presupuesto anual para la UAQ con respeto a la autonomía universitaria.</li>
+						    				<li>Salario estudiantil complementario al otorgamiento de becas.</li>
+						    				<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua4. Redes troncales de transporte urbano “Servicio intercolonias”, “Condiciones de trabajo dignas para el operador”.</li>
+						    				<li>5. Programas de “Conoce tu municipio” y “Sugiriendo Mejoras”.</li>
 						    			</ul>
 						  			</div>
 
