@@ -18,35 +18,7 @@
 	<link rel="stylesheet" href="css/everythingElse.css" />
 </head>
 <body>
-		
-	<nav class="navbar navbar-inverse navbar-fixed-top">
-		<div class="container-fluid">
-		  	<div class="navbar-header">
-	      		<a class="navbar-brand" href="#">INFÓRMATE</a>
-	    	</div>
-	    	<div>
-	    		<ul class ="nav navbar-nav">
-	        		<li><a href="#">Estadísticas</a></li>
-	        		<li><a href="survey_gob.php">Candidatos a Gobernador</a></li>
-	        		<li><a href="survey_mun.php">Candidatos a Presidente Municipal</a></li>
-	      		</ul>
-	    	</div>
-	  	</div>
-	</nav>
-
-	<div class="container-fluid">
-		<br><br>
-		<div class="row">
-			<div class="col-sm-12">
-				<div class="panel panel-default">
-					<div class="panel-body">
-				<h1 id="t">Que no le digan, que no le cuenten. <br> Mejor infórmese</h1>
-			</div></div>
-				<div class="page-header"></div>
-			</div>
-		</div>
-
-		<div id="graficas">
+	<div id="graficas">
 				<table id="source">
 					<caption>
 						Presidente Municipal
@@ -128,55 +100,86 @@
 					</tbody>
 				</table>
 		</div>
+		
+	<nav class="navbar navbar-inverse navbar-fixed-top">
+		<div class="container-fluid">
+		  	<div class="navbar-header">
+	      		<a class="navbar-brand" href="#">INFÓRMATE</a>
+	    	</div>
+	    	<div>
+	    		<ul class ="nav navbar-nav">
+	        		<li><a href="#">Estadísticas</a></li>
+	        		<li><a href="survey_gob.php">Candidatos a Gobernador</a></li>
+	        		<li><a href="survey_mun.php">Candidatos a Presidente Municipal</a></li>
+	      		</ul>
+	    	</div>
+	  	</div>
+	</nav>
+
+	<div class="container-fluid">
+		<br><br>
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="panel panel-default">
+					<div class="panel-body">
+						<h1 id="t">Que no le digan, que no le cuenten. <br> Mejor infórmese</h1>
+					</div>
+				</div>
+			<!-- <div class="page-header"></div> -->
+			</div>
+		</div>
 
 		<div class="jumbotron">
 			<p id="irr">Tomar decisiones sin información es peligroso e irresponsable. <br> 
 				Lo invitamos a revisar las propuestas de los candidatos y a dejarnos su opinion. <br>
 				No se apure, ya nos encargamos de la investigación y el resumen de las propuestas por usted. <br> 
-				La información se encuentra en las secciones de: <br>
-				<kbd id="Gobs">Candidatos a Gobernador</kbd><kbd id="Pres">Candidatos a Presidente Municipal</kbd>
-			</p>
-			<a id= "siguiente-seccion" href="#graficas" ><span class="glyphicons glyphicons-equalizer"></span></a>
+				La información se encuentra en las secciones de: <br><br>
+				<a href="survey_gob.php"><kbd id="Gobs">Candidatos a Gobernador</kbd></a>
+				<a href="survey_mun.php"><kbd id="Pres">Candidatos a Presidente Municipal</kbd></a>
+			</p><br><br>
+
+			<div id="siguiente-seccion"><a href="#g" class="btn btn-primary btn-lg"><span class="glyphicon glyphicon-hand-down"></span></a></div>
+
 		</div>
-			<br><br><br>
-	<br>
-	<br>
-	<br>
-		<section id="graficas">
-			<div class="row">
-				<div class="col-sm-6"> 
-					<div class="panel panel-default">
-						<div class="panel-body"><div id="target"></div></div> 
-					</div>
-				</div>
 
-				<div class="col-sm-6"> 
-					<div class="panel panel-default">
-						<div class="panel-body"><div id="target2"></div></div> 
-					</div>
+	</div>
+
+	<br><br><br><br><br><br>
+
+	<section id="g">
+		<div class="row">
+			<div class="col-sm-6"> 
+				<div class="panel panel-default">
+					<div class="panel-body"><div id="target2"></div></div> 
 				</div>
-			</div>	
+			</div>
+
+			<div class="col-sm-6"> 
+				<div class="panel panel-default">
+					<div class="panel-body"><div id="target"></div></div> 
+				</div>
+			</div>
+		</div>	
+		<!-- <h3  id="graficas">Gráficas</h3> -->
 	</section>
-
+	
 	<div class="navbar navbar-inverse navbar-fixed-bottom">
 		<div class="container-fluid">
 			<blockquote id="quote" class="navbar-text">
 			<!-- <div class="navbar-brand"> -->
 				<p>La democracia es el proceso que garantiza que no seamos gobernados mejor de lo que nos merecemos.<kbd>George Bernard Shaw</kbd></p> 
-			<!-- 	<footer>
-					
-				</footer> -->
-
 				</blockquote>
 		</div>
 	</div>
 
 	<script type="text/javascript">
+
 	$(function() {
 		$('#source').tableBarChart('#target', '', false);
 		$('#source2').tableBarChart('#target2', '', false);
 		$("table").hide();
 		$("tbody").hide();
+
 	});
 	</script>
 </body>
