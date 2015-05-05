@@ -6,7 +6,7 @@ class  DB
 	protected $mysqli;
 	public function __construct()
 	{
-		$this->mysqli = new mysqli('localhost', 'root', '', 'twitter_example');
+		$this->mysqli = new mysqli('localhost', 'root', '', 'candidatos');
 	}
 
 	public function query($sql){

@@ -4,6 +4,7 @@ require_once 'twitter/init.php';
 
 $errors         = array();  	// array to hold validation errors
 $data 			= array(); 		// array to pass back data
+
 //$mysqli = new mysqli('localhost', 'root', '', 'twitter_example');
 // if ($mysqli->connect_errno) {
 //     $errors['sql'] = "Failed to connect to MySQL: (" . $conn->connect_errno . ") " . $conn->connect_error;
@@ -25,6 +26,15 @@ $data 			= array(); 		// array to pass back data
 			} else {
 				$db->query("UPDATE users SET voto_gob=1 WHERE twitter_id=" . $_SESSION['user_id']);
 				//Agregar voto a candidato
+				$quer = "SELECT votos FROM gobernador WHERE last = '".$_POST['candidato']."'";
+				if($result2 = $db->query($quer)){
+					$row2 = mysqli_fetch_array($result2);
+					$voto = $row2['votos'] + 1;
+					$db->query("UPDATE gobernador SET votos=".$voto." WHERE last = '" . $_POST['candidato']. "'");
+				}else{
+					$errors['radio'] = "Error incrementando el voto " . $quer;
+				}
+				
 			}
 
 		} else {
@@ -39,6 +49,13 @@ $data 			= array(); 		// array to pass back data
 			} else {
 				$db->query("UPDATE users SET voto_mun=1 WHERE twitter_id=" . $_SESSION['user_id']);
 				//Agregar voto a candidato
+				if($result = $db->query("SELECT votos FROM municipal WHERE last=" . $_POST['candidato'])){
+					$row = mysqli_fetch_array($result);
+					$row[0]++;
+					$db->query("UPDATE municipal SET votos=".$row[0]." WHERE last=" . $_POST['candidato']);
+				}else{
+					$errors['radio'] = "Error incrementando el voto";
+				}
 			}
 
 		} else {
@@ -72,3 +89,6 @@ $data 			= array(); 		// array to pass back data
 
 	// return all our data to an AJAX call
 	echo json_encode($data);
+
+	// Method to call for number of votes ===========================================================
+
