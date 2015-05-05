@@ -49,10 +49,10 @@ $data 			= array(); 		// array to pass back data
 			} else {
 				$db->query("UPDATE users SET voto_mun=1 WHERE twitter_id=" . $_SESSION['user_id']);
 				//Agregar voto a candidato
-				if($result = $db->query("SELECT votos FROM municipal WHERE last=" . $_POST['candidato'])){
-					$row = mysqli_fetch_array($result);
-					$row[0]++;
-					$db->query("UPDATE municipal SET votos=".$row[0]." WHERE last=" . $_POST['candidato']);
+				if($result3 = $db->query("SELECT votos FROM municipal WHERE last='" . $_POST['candidato']."'")){
+					$row3 = mysqli_fetch_array($result);
+					$voto2 = $row3['votos'] + 1;
+					$db->query("UPDATE municipal SET votos=".$voto2." WHERE last='" . $_POST['candidato']."'");
 				}else{
 					$errors['radio'] = "Error incrementando el voto";
 				}

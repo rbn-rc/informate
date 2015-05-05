@@ -27,7 +27,7 @@
 			    	</div>
 			    	<div>
 			    		<ul class ="nav navbar-nav">
-			        		<li><a href="index.html">Estadísticas</a></li>
+			        		<li><a href="index.php">Estadísticas</a></li>
 			        		<li><a href="survey_gob.php">Candidatos a Gobernador</a></li>
 			        		<li><a href="survey_mun.php">Candidatos a Presidente Municipal</a></li>	
 			      		</ul>
@@ -108,7 +108,7 @@
 				  	</li>
 				  	<li>
 				  		<a data-toggle="tab" href="#can7">
-				  			<img class="img-responsive img-rounded" src="img/ph.png" alt="em" width="105.6875" height="148.4375">
+				  			<img class="img-responsive img-rounded" src="img/carlosrobles.jpg" alt="em" width="105.6875" height="148.4375">
 				  			<div class="panel">
 				 				<p class="text-center">
 				  					Carlos Robles
@@ -156,7 +156,7 @@
 						    	<h3 class="panel-title">Currículum</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>PresiSecretario de Finanzas del CDE PRI.</li>
@@ -168,11 +168,7 @@
 						  			</div>
 
 							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
-							    </div>
+							
 							</div>
 						</div>
 
@@ -181,7 +177,7 @@
 						    	<h3 class="panel-title">Propuestas</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Programa de visión ciudadana</li>
@@ -196,11 +192,7 @@
 						  			</div>
 
 							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
-							    </div>
+							
 							</div>							  		
 						</div>
 
@@ -231,7 +223,7 @@
 						    	<h3 class="panel-title">Currículum</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Diputado local en la LVI Legislatura del Congreso de Querétaro. (2009-2012)</li>
@@ -242,11 +234,7 @@
 						  			</div>
 
 							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
-							    </div>
+							
 							</div>
 						</div>
 
@@ -255,7 +243,7 @@
 						    	<h3 class="panel-title">Propuestas</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Plan de movilidad en la capital</li>
@@ -265,11 +253,7 @@
 						  			</div>
 
 							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="200">
-						  			</div>
-							    </div>
+						
 							</div>							  		
 						</div>
 
@@ -300,7 +284,7 @@
 						    	<h3 class="panel-title">Currículum</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Secretario de las Juventudes de Izquierda del PRD en Querétaro</li>
@@ -308,11 +292,7 @@
 						  			</div>
 
 							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
-							    </div>
+							 
 							</div>
 						</div>
 
@@ -321,7 +301,7 @@
 						    	<h3 class="panel-title">Propuestas</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Sostiene que es urgente generar los espacios y las actividades educativas, recreativas y culturales, para inhibir el delito, para que delinquir no sea una opción. La propuesta que presenta a la ciudadanía es la de un gobernante sensible ante las necesidades sociales. “Sociedad y gobierno son el binomio perfecto para solventar juntos cualquier problema o situación que se presente” sostuvo el candidato.</li>
@@ -329,11 +309,7 @@
 						  			</div>
 
 							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
-							    </div>
+						
 							</div>							  		
 						</div>
 
@@ -365,7 +341,7 @@
 						    	<h3 class="panel-title">Currículum</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Coordinador del Centro de Investigaciones Sociales de la UAQ.</li>
@@ -375,11 +351,7 @@
 						  			</div>
 
 							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="200">
-						  			</div>
-							    </div>
+							  
 							</div>
 						</div>
 
@@ -388,7 +360,7 @@
 						    	<h3 class="panel-title">Propuestas</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Reducir los excesivos sueldos que se atribuyen los altos funcionarios públicos (Presidente Municipal, síndicos, regidores, cuadros intermedios y altos).</li>
@@ -400,11 +372,7 @@
 						  			</div>
 
 							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
-							    </div>
+							
 							</div>							  		
 						</div>
 
@@ -437,7 +405,7 @@
 						    	<h3 class="panel-title">Currículum</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Secretaria de Organización, integrante de la Comisión Operativa Estatal.</li>
@@ -451,11 +419,7 @@
 						  			</div>
 
 							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
-							    </div>
+							
 							</div>
 						</div>
 
@@ -464,7 +428,7 @@
 						    	<h3 class="panel-title">Propuestas</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Tener un municipio austero, que se conseguiría mediante la disminución de sueldos en trabajadores que van desde directores hacía arriba, esto con el objetivo de disminuir deudas y mantener finanzas sanas.</li>
@@ -474,11 +438,7 @@
 						  			</div>
 
 							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
-							    </div>
+							
 							</div>							  		
 						</div>
 
@@ -494,7 +454,7 @@
 						  	<div class="row">
 								<div class="col-md-9">
 							    	<div class="panel-body">
-						    			Desconocido.	
+						    			Nacido en Oaxaca de Juárez.	
 						  			</div>
 
 							    </div>
@@ -511,7 +471,7 @@
 						    	<h3 class="panel-title">Currículum</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Desconocido.</li>
@@ -519,11 +479,7 @@
 						  			</div>
 
 							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
-							    </div>
+							  
 							</div>
 						</div>
 
@@ -532,7 +488,7 @@
 						    	<h3 class="panel-title">Propuestas</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Fomentar, promover y generar una cultura de derechos humanos hacia los militantes, a la ciudadanía y exigir que todas las autoridades en el ámbito de su competencia los promueva. </li>
@@ -543,11 +499,7 @@
 						  			</div>
 
 							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
-							    </div>
+							  
 							</div>							  		
 						</div>
 
@@ -580,7 +532,7 @@
 						    	<h3 class="panel-title">Currículum</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Coordinador general del Colegio de Abogados Litigantes de Querétaro</li>
@@ -590,11 +542,7 @@
 						  			</div>
 
 							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
-							    </div>
+							  
 							</div>
 						</div>
 
@@ -603,7 +551,7 @@
 						    	<h3 class="panel-title">Propuestas</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Encuentro Social propone un encuentro de clases, una nueva manera de ver y hacer política, partiendo de valores firmes y principios claros. No es una lucha de carácter ideológico, utópico, sino un encuentro de clases basado en la consciencia social. Nuestro programa político tiene como principal postulado la reconciliación nacional.</li>
@@ -612,11 +560,7 @@
 						  			</div>
 
 							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
-							    </div>
+						
 							</div>							  		
 						</div>
 
@@ -649,7 +593,7 @@
 						    	<h3 class="panel-title">Currículum</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Profesor investigador de tiempo completo de la Facultad de Psicología, Universidad Autónoma de Querétaro.</li>
@@ -659,11 +603,7 @@
 						  			</div>
 
 							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
-							    </div>
+						
 							</div>
 						</div>
 
@@ -672,7 +612,7 @@
 						    	<h3 class="panel-title">Propuestas</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Lanza el reto de bajar a la mitad el sueldo del presidente municipal “yo invito a los candidatos y al ganador para que se reduzca el sueldo en 50% que hoy es de 126 mil pesos”. </li>
@@ -684,11 +624,7 @@
 						  			</div>
 
 							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
-							    </div>
+							
 							</div>							  		
 						</div>
 

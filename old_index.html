@@ -1,5 +1,4 @@
 <!doctype html>
-<?php require_once 'twitter/init.php';?>
 <html>
 <head>
 	<!-- Titulo de la página -->
@@ -33,67 +32,35 @@
 					<tbody>
 						<tr>
 							<th>Marcos Aguilar Vega</th>
-							<td><?php if($result = $db->query("SELECT votos FROM municipal WHERE last = 'aguilar'")){
-										$row = mysqli_fetch_array($result);
-										}else{
-											echo -1;
-										}; echo $row['votos'];?> </td>
+							<td>170</td>
 						</tr>
 						<tr>
 							<th>Manuel Pozo Cabrera</th>
-							<td><?php if($result = $db->query("SELECT votos FROM municipal WHERE last = 'pozo'")){
-										$row = mysqli_fetch_array($result);
-										}else{
-											echo -1;
-										}; echo $row['votos'];?> </td>
+							<td>170</td>
 						</tr>
 						<tr>
 							<th>Gonzalo Bárcenas Reyes</th>
-							<td><?php if($result = $db->query("SELECT votos FROM municipal WHERE last = 'barcenas'")){
-										$row = mysqli_fetch_array($result);
-										}else{
-											echo -1;
-										}; echo $row['votos'];?> </td>
+							<td>170</td>
 						</tr>
 						<tr>
 							<th>Cristina Berenice García Vega</th>
-							<td><?php if($result = $db->query("SELECT votos FROM municipal WHERE last = 'garcia'")){
-										$row = mysqli_fetch_array($result);
-										}else{
-											echo -1;
-										}; echo $row['votos'];?> </td>
+							<td>170</td>
 						</tr>
 						<tr>
 							<th>Ángel Eduardo Simón Miranda Correa</th>
-							<td><?php if($result = $db->query("SELECT votos FROM municipal WHERE last = 'miranda'")){
-										$row = mysqli_fetch_array($result);
-										}else{
-											echo -1;
-										}; echo $row['votos'];?> </td>
+							<td>170</td>
 						</tr>
 						<tr>
 							<th>Gustavo César Jesús  Buenrostro Díaz</th>
-							<td><?php if($result = $db->query("SELECT votos FROM municipal WHERE last = 'buenrostro'")){
-										$row = mysqli_fetch_array($result);
-										}else{
-											echo -1;
-										}; echo $row['votos'];?> </td>
+							<td>170</td>
 						</tr>
 						<tr>
 							<th>Carlos Octavio Robles Altamirano</th>
-							<td><?php if($result = $db->query("SELECT votos FROM municipal WHERE last = 'robles'")){
-										$row = mysqli_fetch_array($result);
-										}else{
-											echo -1;
-										}; echo $row['votos'];?> </td>
+							<td>170</td>
 						</tr>
 						<tr>
 							<th>Marco Antonio Carrillo Pacheco</th>
-							<td><?php if($result = $db->query("SELECT votos FROM municipal WHERE last = 'carrillo'")){
-										$row = mysqli_fetch_array($result);
-										}else{
-											echo -1;
-										}; echo $row['votos'];?> </td>
+							<td>170</td>
 						</tr>
 					</tbody>
 				</table>
@@ -108,51 +75,27 @@
 					<tbody>
 						<tr>
 							<th>Francisco Domínguez  Servién</th>
-							<td><?php if($result = $db->query("SELECT votos FROM gobernador WHERE last = 'dominguez'")){
-										$row = mysqli_fetch_array($result);
-										}else{
-											echo -1;
-										}; echo $row['votos'];?> </td>
+							<td>170</td>
 						</tr>
 						<tr>
 							<th>Roberto Loyola Vera</th>
-							<td><?php if($result = $db->query("SELECT votos FROM gobernador WHERE last = 'loyola'")){
-										$row = mysqli_fetch_array($result);
-										}else{
-											echo -1;
-										}; echo $row['votos'];?> </td>
+							<td>170</td>
 						</tr>
 						<tr>
 							<th>Adolfo Camacho Esquivel</th>
-							<td><?php if($result = $db->query("SELECT votos FROM gobernador WHERE last = 'camacho'")){
-										$row = mysqli_fetch_array($result);
-										}else{
-											echo -1;
-										}; echo $row['votos'];?> </td>
+							<td>170</td>
 						</tr>
 						<tr>
 							<th>Salvador López Ávila</th>
-							<td><?php if($result = $db->query("SELECT votos FROM gobernador WHERE last = 'lopez'")){
-										$row = mysqli_fetch_array($result);
-										}else{
-											echo -1;
-										}; echo $row['votos'];?> </td>
+							<td>170</td>
 						</tr>
 						<tr>
 							<th>Celia Maya García</th>
-							<td><?php if($result = $db->query("SELECT votos FROM gobernador WHERE last = 'maya'")){
-										$row = mysqli_fetch_array($result);
-										}else{
-											echo -1;
-										}; echo $row['votos'];?> </td>
+							<td>170</td>
 						</tr>
 						<tr>
 							<th>Eda Martínez Pazarán</th>
-							<td><?php if($result = $db->query("SELECT votos FROM gobernador WHERE last = 'martinez'")){
-										$row = mysqli_fetch_array($result);
-										}else{
-											echo -1;
-										}; echo $row['votos'];?> </td>
+							<td>170</td>
 						</tr>
 					</tbody>
 				</table>
@@ -190,7 +133,7 @@
 			<p id="irr">Tomar decisiones sin información es peligroso e irresponsable. <br> 
 				Lo invitamos a revisar las propuestas de los candidatos y a dejarnos su opinion. <br>
 				No se apure, ya nos encargamos de la investigación y el resumen de las propuestas por usted. <br> 
-				La información se encuentra dando click en alguno de los siguientes botones: <br><br>
+				La información se encuentra en las secciones de: <br><br>
 				<a href="survey_gob.php"><kbd id="Gobs">Candidatos a Gobernador</kbd></a>
 				<a href="survey_mun.php"><kbd id="Pres">Candidatos a Presidente Municipal</kbd></a>
 			</p><br><br>
@@ -201,7 +144,7 @@
 
 	</div>
 
-	<hr>
+	<br><br><br><br><br><br>
 
 	<section id="g">
 		<div class="row">

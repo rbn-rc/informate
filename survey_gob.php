@@ -27,7 +27,7 @@
 			    	</div>
 			    	<div>
 			    		<ul class ="nav navbar-nav">
-			        		<li><a href="index.html">Estadísticas</a></li>
+			        		<li><a href="index.php">Estadísticas</a></li>
 			        		<li><a href="survey_gob.php">Candidatos a Gobernador</a></li>
 			        		<li><a href="survey_mun.php">Candidatos a Presidente Municipal</a></li>	
 			      		</ul>
@@ -136,7 +136,7 @@
 						    	<h3 class="panel-title">Currículum</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Presidente Municipal de Queretaro (2012-1015).</li>
@@ -144,12 +144,6 @@
 						    				<li>Secretario Particular Adjunto del Gobernador como parte del Gabinete Estatal (1994-1997).</li>
 						    				<li>Secretario de Gobernación en la actual administración del Gobernador José Calzada Rovirosa (2011-2012).</li>
 						    			</ul>
-						  			</div>
-
-							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>
@@ -160,18 +154,19 @@
 						    	<h3 class="panel-title">Propuestas</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
-							    		<p>Presenta una propuesta de movilidad  con el fin de mejorar atención en transporte público, mejores vialidades para automovilistas, ampliación de plazas para el peatón, más ciclo pistas y mejorar la red de carreteras.</p>
+							    		<ul>
+							    			<li>Presenta una propuesta de movilidad  con el fin de mejorar atención en transporte público, mejores vialidades para automovilistas, ampliación de plazas para el peatón, más ciclo pistas y mejorar la red de carreteras.</li>
 
-										<p>En el rubro de usuarios del transporte, se destacó mejorar la atención de los choferes con los usuarios, mantener tarifas preferenciales, mejorar las condiciones laborales de los choferes e incorporar nuevos camiones. En el aspecto de los automovilistas, el candidato habló de mejores vialidades, reducir el tráfico con la promoción del transporte escolar y soluciones vehiculares por colonia. En aspectos que denominó “para el peatón”, Loyola Vera refirió que se continuará con la ampliación de banquetas y sistema de plazas como en la capital, además de más ciclo pistas que estén interconectadas, además de un sistema de bicis públicas. En cuanto a infraestructura y ampliación de red carretera a los municipios, el candidato informó que zonas como San Joaquín y Pinal de Amoles pudieran conectarse, así como mejores vialidades para San Juan del Río y Tequisquiapan. Finalmente, en el rubro de educación vial, fueron enunciados los proyectos de un carril exclusivo para transporte público, multiplicar el programa “Uno a Uno” y promover un reglamento de cultura vial.</p>
+											<li>En el rubro de usuarios del transporte, se destacó mejorar la atención de los choferes con los usuarios, mantener tarifas preferenciales, mejorar las condiciones laborales de los choferes e incorporar nuevos camiones.</li>
+											<li>En el aspecto de los automovilistas, el candidato habló de mejores vialidades, reducir el tráfico con la promoción del transporte escolar y soluciones vehiculares por colonia.</li> 
+											<li>En aspectos que denominó “para el peatón”, Loyola Vera refirió que se continuará con la ampliación de banquetas y sistema de plazas como en la capital, además de más ciclo pistas que estén interconectadas, además de un sistema de bicis públicas.</li> 
+											<li>En cuanto a infraestructura y ampliación de red carretera a los municipios, el candidato informó que zonas como San Joaquín y Pinal de Amoles pudieran conectarse, así como mejores vialidades para San Juan del Río y Tequisquiapan.</li> 
+											<li>Finalmente, en el rubro de educación vial, fueron enunciados los proyectos de un carril exclusivo para transporte público, multiplicar el programa “Uno a Uno” y promover un reglamento de cultura vial.</li>
+										</ul>
 						  			</div>
 
-							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
 							    </div>
 							</div>							  		
 						</div>
@@ -203,7 +198,7 @@
 						    	<h3 class="panel-title">Currículum</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Presidente Municipal de Querétaro (2009-2012).</li>
@@ -214,11 +209,6 @@
 						  			</div>
 
 							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
-							    </div>
 							</div>
 						</div>
 
@@ -227,7 +217,7 @@
 						    	<h3 class="panel-title">Propuestas</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Propuesta de Seguridad. Se aplicarán 25 acciones que se desprenden de siete líneas estratégicas para recuperar la paz y tranquilidad de las familias queretanas.</li>
@@ -242,11 +232,6 @@
 						  			</div>
 
 							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="200">
-						  			</div>
-							    </div>
 							</div>							  		
 						</div>
 
@@ -260,7 +245,7 @@
 						  	<div class="row">
 								<div class="col-md-9">
 							    	<div class="panel-body">
-						    			Desconocido.	
+						    			Abogado por la Universidad Autónoma de Querétaro (UAQ), con especialidad en Derecho Fiscal, y tiene estudios de maestría en Derecho Constitucional y Amparo por la misma universidad. 	
 						  			</div>
 
 							    </div>
@@ -280,15 +265,13 @@
 								<div class="col-md-9">
 							    	<div class="panel-body">
 						    			<ul>
-						    				<li>Desconocido.</li>
+						    				<li>Dirigente del PRD hasta febrero de 2015.</li>
+						    				<li>Diputado local de Querétaro.</li>
+						    				<li>Ex-candidato a la presidencia municipal.</li>
+						    				<li>Contralor del congreso del estado.</li>
 						    			</ul>
 						  			</div>
 
-							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
 							    </div>
 							</div>
 						</div>
@@ -298,18 +281,15 @@
 						    	<h3 class="panel-title">Propuestas</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
-						    				<li>Desconocido.</li>
+						    				<li>La modernización del transporte a partir de la generación de un nuevo cuerpo normativo para que se le delegue la facultad legal a partir de una única concesión a una empresa privada con la capacidad de administrar el transporte público, sin que el Estado pierda la rectoría en el tema de trasporte..</li>
+						    				<li>Creación de un metrobús de gran capacidad, ecológico y rápido que circule por las principales avenidas de la ciudad en un solo carril para darle agilidad</li>
+						    				<li>Construcción de ciclopistas con conectividad, a fin de mejorar la movilidad en el estado.</li>
 						    			</ul>
 						  			</div>
 
-							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
 							    </div>
 							</div>							  		
 						</div>
@@ -342,18 +322,13 @@
 						    	<h3 class="panel-title">Currículum</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Fue profesora de cátedra en la UAQ, se ha desempeñado como agente del Ministerio Público de la Procuraduría General de Justicia del Estado, fungió como asesora jurídica en las áreas civil y penal del sector empresarial. En el 2003 fue candidata a la gubernatura del Estado de Querétaro por el PRD. </li>
 						    			</ul>
 						  			</div>
 
-							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="200">
-						  			</div>
 							    </div>
 							</div>
 						</div>
@@ -363,7 +338,7 @@
 						    	<h3 class="panel-title">Propuestas</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Salud: Romper la división social que deja a miles de personas fuera de la atención básica, todos los queretanos sin distinción de clase ya no van a ser rechazados por los sistemas de atención en materia de salud.</li>
@@ -376,11 +351,6 @@
 						    			</ul>
 						  			</div>
 
-							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
 							    </div>
 							</div>							  		
 						</div>
@@ -397,7 +367,7 @@
 						  	<div class="row">
 								<div class="col-md-9">
 							    	<div class="panel-body">
-						    			Desconocido.
+						    			Nacido el 16 de marzo de 1972 en Querétaro, es egresado de Licenciatura en Derecho con mención honrífica por parte de la Universidad del Valle de México (UVM). Realizó estudios de Posgrado en Derecho Corporativo en la UAQ y cursó la Maestría en Derecho en la misma Casa de Estudios.  
 						  			</div>
 
 							    </div>
@@ -414,17 +384,15 @@
 						    	<h3 class="panel-title">Currículum</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
-						    				<li>Desconocido</li>
+						    				<li>Miembro de la empresa "Soluciones Legales".</li>
+						    				<li>Asessor Jurídico en la LX Legislatura del Congreso de la Unión (2006-2009)</li>
+						    				<li>Catedrático en áreas de Derecho Privado de la Facultad de Derecho en la UAQ y en la UVM</li>
+						    				<li>Docente en la preparatoria Sur.</li>
+						    				<li>Abogado litigante.</li>
 						    			</ul>
-						  			</div>
-
-							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
 						  			</div>
 							    </div>
 							</div>
@@ -435,18 +403,27 @@
 						    	<h3 class="panel-title">Propuestas</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
-						    				<li>Una de sus propuestas de campaña es disminuir en un 20 por ciento el sueldo de los funcionarios de primer nivel de Querétaro, a fin de generar un ahorro de 40 millones de pesos, e invertir ese recurso en el sector educativo. Asimismo, López Ávila agrego que otras de sus propuestas son: hacer un grupo antisecuestro que atienda llamada y reaccione al instante. Además se comprometió a hacer pública se declaración patrimonial.</li>
+						    				<li>Una de sus propuestas de campaña es disminuir en un 20% el sueldo de los funcionarios de primer nivel de Querétaro, a fin de generar un ahorro de 40 millones de pesos, e invertir ese recurso en el sector educativo. Asimismo, López Ávila agrego que otras de sus propuestas son: hacer un grupo antisecuestro que atienda llamada y reaccione al instante. Además se comprometió a hacer pública se declaración patrimonial.</li>
+						    				<li>Mejorar la seguridad en Santa María Magdalena creando comites vecinales y mejorar sus condiciones en general.</li>
+						    				<li>Incrementar las rutas del transporte público.</li>
+											<li>Que los servidores públicos elegidos por el pueblo no renuncien a sus cargos hasta que hayan cumplido con su mandato y sus responsabilidades con el pueblo.</li>
+											<li>Creación de una normatividad más estricta para combatir contra el desvío de recursos públicos, impunidad y autobeneficcios de parte del servidor público.</li>
+											<li>Mejores salarios.</li>
+											<li>Reestructuras al transporte público para un mejor servicio.</li>
+											<li>Creación de un instituto para la atención integral de los adultos mayores, para garantizar los derechos humanos de los mismos y promover el respeto hacia los adultos mayores.</li>
+											<li>Apoyo a madres solteras brindandoles: becas para estudiar en cualquier nivel educativo, seguro de vida, seguro popular y programas de autoempleo.</li>
+											<li>Promover el uso de la bicicleta como medio de transporte alterno.</li>
+											<li>Consolidación de la carrera policial.</li>
+											<li>Visitas preventivas de estudiantes a las correccionales como mecanismo de prevención.</li>
+											<li>Proveer mejor equipamiento a la policía y crear un cuerpo especial antisecuestro.</li>
+											<li>Promover cultura del deporte en la ciudadania.</li>
+											<li>Mejorar la infraestructura para brindar una mejor atención médica a los pacientes y asegurar el servicio a todos los queretanos.</li>
 						    			</ul>
 						  			</div>
 
-							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
 							    </div>
 							</div>							  		
 						</div>
@@ -480,7 +457,7 @@
 						    	<h3 class="panel-title">Currículum</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>Directora General de la empresa BIOPHARMEX, S.A. de C.V. desde 1997.</li>
@@ -488,11 +465,6 @@
 						    			</ul>
 						  			</div>
 
-							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
 							    </div>
 							</div>
 						</div>
@@ -502,18 +474,13 @@
 						    	<h3 class="panel-title">Propuestas</h3>
 						  	</div>
 						  	<div class="row">
-								<div class="col-md-9">
+								<div class="col-md-12">
 							    	<div class="panel-body">
 						    			<ul>
 						    				<li>La candidata a gobernadora del estado, por el Partido Encuentro Social (PES), Eda Martínez, se comprometió a que esta fuerza política creará más mejores condiciones para que las mujeres en la entidad logren desarrollarse, si es que llega al poder.</li>
 						    			</ul>
 						  			</div>
 
-							    </div>
-							    <div class="col-md-3"> 
-							      	<div class="container-fluid">
-						  				<img class="img-responsive" src="img/asot.jpg" alt="ASOT" width="200" height="160">
-						  			</div>
 							    </div>
 							</div>							  		
 						</div>
